@@ -8,6 +8,8 @@ Write a simple Python program for the modulation and demodulation of PCM, and DM
 Google Colab
 ```
 # Program
+
+**PULSE CODE MODULATION**
 ```
 #PCM
 import numpy as np
@@ -74,6 +76,8 @@ plt.grid(True)
 plt.tight_layout()
 plt.show()
 ```
+
+**DELTA MODULATION**
 ```
 #Delta Modulation
 import numpy as np
